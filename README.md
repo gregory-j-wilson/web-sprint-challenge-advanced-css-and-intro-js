@@ -22,27 +22,22 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
-1. How would you describe preprocessing to someone new to CSS?
+1. How would you describe acessibility on the web to someone new to programming?
 
-    A preprocessor in CSS allows you to use more unique syntax (of the preprocessor) for greater ease and ability in writing css.
+    Accessibility means making your site accessible to all people - people with disabilities who cannot see or are visually impaired.
 
-2. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+2. Talk about 3 different things you can do to ensure your website is accessible.
 
-    Being able to have variables.  /  Just setting the preprocessor up.
+    Provide alt's for pictures, so a screen reader can read out loud a description of your pictures.
+    Use rem so the text can be sizable - get bigger if people want it bigger.
 
 3. How would you explain the concept of a variable to someone new to programming?
 
-    It is a title that has something assigned to it - some kind of piece of data - a string, a number, etc...
+    A variable is a name to which is assigned some sort of data, whether it's a string, or a number, etc...
 
 4. What is the purpose of using functions in code?
 
-    To protect the code inside the function for use only when we invoke the function.
-
-5. What is JSON data?
-
-    JavaScript Object Notation data - it's the data stored in an object with {} and that inside [] if it's objects inside an array.
-
-You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
+    Functions guard a piece of code, so it is only executed when the function is invoked.  Also, you can easily invoke the function whenever you want without having to write all the code over again.
 
 ## Instructions
 
