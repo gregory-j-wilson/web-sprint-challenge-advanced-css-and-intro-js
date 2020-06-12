@@ -162,6 +162,11 @@ button:hover{
         width: 80%;
     }
 
+    .artist img:hover {
+        border: 5px solid black;
+        border-radius: 10px;
+    }
+
     .artist a {
         font-size: 1.5rem;
     }
